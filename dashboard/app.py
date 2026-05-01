@@ -1,3 +1,10 @@
+import sys
+import os
+
+# inject root project ke PYTHONPATH (HARUS paling atas)
+sys.path.append(os.path.dirname(os.path.dirname(__file__)))
+
+
 import streamlit as st
 import pandas as pd
 
