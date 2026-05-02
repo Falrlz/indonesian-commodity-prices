@@ -12,7 +12,7 @@ https://indonesian-commodity-prices.streamlit.app
 
 ## Preview
 
-![Dashboard](assets\preview.gif)
+![Preview](assets/preview.gif)
 
 ## What It Does
 
